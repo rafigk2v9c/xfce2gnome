@@ -1,16 +1,16 @@
-# xdfce2gnome
+# xfce2gnome
 **This project provides an easy tool to switch from the XFCE desktop environment to GNOME or to remove XFCE entirely.(only kali linux users)**
 # 🚀 Installation
 
 Clone the repository:
 
-``````git clone https://github.com/yourusername/xdfce2gnome.git``````
+``````git clone https://github.com/yourusername/xfce2gnome.git``````
 
-``````cd xdfce2gnome``````
+``````cd xfce2gnome``````
 
-``````g++ xdfce2gnome.cpp -o xdfce2gnome``````
+``````g++ xfce2gnome.cpp -o xfce2gnome``````
 
-``````./xdfce2gnome``````
+``````./xfce2gnome``````
 
 [![Image](https://i.hizliresim.com/2dsh3ek.png)](https://hizliresim.com/2dsh3ek)
 
