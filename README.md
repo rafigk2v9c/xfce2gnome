@@ -10,7 +10,7 @@ Clone the repository:
 
 [![Image](https://i.hizliresim.com/2dsh3ek.png)](https://hizliresim.com/2dsh3ek)
 
-
+After selecting the 1st option, gdm3 and lightdm options will appear on the screen at the end, you must select the gdm3 option.
 
 
 [![Image](https://i.hizliresim.com/9qabv21.png)](https://hizliresim.com/9qabv21)
