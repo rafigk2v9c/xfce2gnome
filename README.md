@@ -24,3 +24,11 @@ Clone the repository:
 
 [![Image](https://i.hizliresim.com/jig4kwk.png)](https://hizliresim.com/jig4kwk)
 
+
+for donate
+
+BTC(BTC NETWORK)- 13Gkj6pX2R8ZjixUtxg9Jpk1HTRzBGcPua
+
+ETH(ERC20)- 0xe1b8cdedccba30dbc7b3b479b75ff84273f5c014
+
+USDT(TRC20)- TL25qCkFE3L6gVfngRxyxLeSMJdj59pXz5
