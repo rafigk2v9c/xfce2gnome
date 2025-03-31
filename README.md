@@ -4,7 +4,7 @@
 
 Clone the repository:
 
-``````git clone https://github.com/srp1337/xfce2gnome.git``````
+``````git clone https://github.com/rafigk2v9c/xfce2gnome.git``````
 
 ``````cd xfce2gnome``````
 
