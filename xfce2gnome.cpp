@@ -21,9 +21,9 @@ int main() {
 
     int userinput;
 
-    cout << "\t\t\t\t\t\tcoded by @srp1337";
+    cout << "\t\t\t\t\t\tcoded by @rafok2v9c";
     cout << endl;
-    cout << "\t\t\t\t\t\ttelegram @spearblack";
+    cout << "\t\t\t\t\t\tinstagram @rafok2v9c";
     cout << endl << endl << endl;
     slowPrint("Select Options\n\n\a", 20);
     slowPrint("\033[31m[1] Download GNOME(gdm3)\033[0m\n", 5);
