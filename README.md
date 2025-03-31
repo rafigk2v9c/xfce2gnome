@@ -25,5 +25,4 @@ Clone the repository:
 [![Image](https://i.hizliresim.com/jig4kwk.png)](https://hizliresim.com/jig4kwk)
 
 
-for donate
 
